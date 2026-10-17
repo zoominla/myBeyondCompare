@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder Value="History">
+				<Items>
+					<TTextCompareSession Value="avfilter.h ↔ avfilter.h">
+						<LastModified Value="2026-10-16 16:40:37"/>
+						<Specs>
+							<Left Value="D:\work\ms\ffmpeg-8.0.1\ffmpeg\libavfilter\avfilter.h"/>
+							<Right Value="D:\work\opensource\ffmpeg\libavfilter\avfilter.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="liveEncTask.cpp ↔ liveEncTask.cpp">
+						<LastModified Value="2026-10-16 16:39:58"/>
+						<Specs>
+							<Left Value="D:\work\tennis\LiveEnc\ivrLiveEnc\liveEncTask.cpp"/>
+							<Right Value="D:\work\tennis\liveEncPlugin\ivrLiveEnc\liveEncTask.cpp"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="stickerDefine.h ↔ stickerDefine.h">
+						<LastModified Value="2026-10-16 16:36:49"/>
+						<Specs>
+							<Left Value="D:\work\tennis\LiveEnc\ivrLiveEnc\stickerDefine.h"/>
+							<Right Value="D:\work\tennis\liveEncPlugin\ivrLiveEnc\stickerDefine.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="LiveEnc ↔ liveEncPlugin">
+						<LastModified Value="2026-10-16 16:12:45"/>
+						<Specs>
+							<Left Value="D:\work\tennis\LiveEnc"/>
+							<Right Value="D:\work\tennis\liveEncPlugin"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="CMakeLists.txt ↔ CMakeLists.txt">
+						<LastModified Value="2026-10-16 11:41:27"/>
+						<Specs>
+							<Left Value="D:\work\tennis\BrillClip\CMakeLists.txt"/>
+							<Right Value="D:\work\tennis\BrillClip1\CMakeLists.txt"/>
+						</Specs>
+					</TTextCompareSession>
+				</Items>
+			</TSessionFolder>
+		</Items>
+	</TSessionFolder>
+</BCSessions>
